@@ -27,8 +27,8 @@ public class ResultFragment extends Fragment {
     private Bitmap original;
     private Button originalButton;
     private Button MagicColorButton;
-    private Button grayModeButton;
-    private Button bwButton;
+/*     private Button grayModeButton;
+    private Button bwButton; */
     private Button rotanticButton;
     private Button rotcButton;
     private Bitmap transformed;
@@ -51,10 +51,10 @@ public class ResultFragment extends Fragment {
         originalButton.setOnClickListener(new OriginalButtonClickListener());
         MagicColorButton = (Button) view.findViewById(R.id.magicColor);
         MagicColorButton.setOnClickListener(new MagicColorButtonClickListener());
-        grayModeButton = (Button) view.findViewById(R.id.grayMode);
+/*         grayModeButton = (Button) view.findViewById(R.id.grayMode);
         grayModeButton.setOnClickListener(new GrayButtonClickListener());
         bwButton = (Button) view.findViewById(R.id.BWMode);
-        bwButton.setOnClickListener(new BWButtonClickListener());
+        bwButton.setOnClickListener(new BWButtonClickListener()); */
 
         rotanticButton = (Button) view.findViewById(R.id.rotanticButton);
         rotanticButton.setOnClickListener(new ResultFragment.RotanticlockButtonClickListener());
@@ -125,7 +125,7 @@ public class ResultFragment extends Fragment {
         }
     }
 
-    private class BWButtonClickListener implements View.OnClickListener {
+/*     private class BWButtonClickListener implements View.OnClickListener {
         @Override
         public void onClick(final View v) {
             showProgressDialog(getResources().getString(R.string.applying_filter));
@@ -156,7 +156,7 @@ public class ResultFragment extends Fragment {
                 }
             });
         }
-    }
+    } */
 
     private class MagicColorButtonClickListener implements View.OnClickListener {
         @Override
@@ -207,7 +207,7 @@ public class ResultFragment extends Fragment {
         }
     }
 
-    private class GrayButtonClickListener implements View.OnClickListener {
+/*     private class GrayButtonClickListener implements View.OnClickListener {
         @Override
         public void onClick(final View v) {
             showProgressDialog(getResources().getString(R.string.applying_filter));
@@ -238,7 +238,7 @@ public class ResultFragment extends Fragment {
                 }
             });
         }
-    }
+    } */
 
 
     private class RotanticlockButtonClickListener implements View.OnClickListener {
