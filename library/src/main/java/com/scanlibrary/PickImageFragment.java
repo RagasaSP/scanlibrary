@@ -57,11 +57,11 @@ public class PickImageFragment extends Fragment implements  OnDialogButtonClickL
     // for security permissions
     @ValueConstants.DialogType
     private int mDialogType;
-    private String mRequestPermissions = "We are requesting the camera and Gallery permission as it is absolutely necessary for the app to perform it\'s functionality.\nPlease select \"Grant Permission\" to try again and \"Cancel \" to exit the application.";
-    private String mRequsetSettings = "You have rejected the camera and Gallery permission for the application. As it is absolutely necessary for the app to perform you need to enable it in the settings of your device.\nPlease select \"Go to settings\" to go to application settings in your device and \"Cancel \" to exit the application.";
-    private String mGrantPermissions = "Grant Permissions";
-    private String mCancel = "Cancel";
-    private String mGoToSettings = "Go To Settings";
+    private String mRequestPermissions = "Estamos solicitando el permiso de la cámara y la galería, ya que es absolutamente necesario para que la aplicación realice su funcionalidad.\nPor favor seleccione \"Conceder permiso\" para intentarlo de nuevo y \"Cancelar \" para salir de la aplicación.";
+    private String mRequsetSettings = "Ha rechazado el permiso de la cámara y la galería para la aplicación. Como es absolutamente necesario que la aplicación funcione, debe habilitarla en la configuración de su dispositivo.\nPor favor seleccione \"Ir a la configuración\" para ir a la configuración de la aplicación en su dispositivo y \"Cancelar \" para salir de la aplicación.";
+    private String mGrantPermissions = "Conceder permiso";
+    private String mCancel = "Cancelar";
+    private String mGoToSettings = "Ir a la configuración";
 
     @Override
     public void onAttach(Activity activity) {
