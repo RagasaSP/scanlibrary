@@ -326,8 +326,8 @@ public class ResultFragment extends Fragment {
         doneButton.setEnabled(false);
         originalButton.setEnabled(false);
         MagicColorButton.setEnabled(false);
-        grayModeButton.setEnabled(false);
-        bwButton.setEnabled(false);
+        /* grayModeButton.setEnabled(false); */
+        /* bwButton.setEnabled(false); */
         rotanticButton.setEnabled(false);
         rotcButton.setEnabled(false);
     }
@@ -336,8 +336,8 @@ public class ResultFragment extends Fragment {
         doneButton.setEnabled(true);
         originalButton.setEnabled(true);
         MagicColorButton.setEnabled(true);
-        grayModeButton.setEnabled(true);
-        bwButton.setEnabled(true);
+        /* grayModeButton.setEnabled(true); */
+        /* bwButton.setEnabled(true); */
         rotanticButton.setEnabled(true);
         rotcButton.setEnabled(true);
     }
