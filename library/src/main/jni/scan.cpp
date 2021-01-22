@@ -103,7 +103,7 @@ vector<Point> getPoints(Mat image)
         
         __android_log_print(ANDROID_LOG_VERBOSE, APPNAME, "Scaning size() %d",squares.size());
         vector<Point> points;
-        if(squares.size() > 0)
+        if(false/* squares.size() > 0 */)
         {
             points = squares[largest_contour_index];
         }
