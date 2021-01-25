@@ -1,668 +1,535 @@
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/obj/local/x86/objs/Scanner/scan.o: \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/jni/scan.cpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/jni/com_scanlibrary_ScanActivity.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/jni.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/cdefs.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/cdefs_elf.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/android/api-level.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stdarg.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/features.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/user_config.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/compat.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/host.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_system.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_android.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/android/log.h \
- sdk/native/jni/include/opencv2/opencv.hpp \
- sdk/native/jni/include/opencv2/core.hpp \
- sdk/native/jni/include/opencv2/core/cvdef.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/linux/limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/machine/internal_types.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/machine/limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/syslimits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm/page.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm/page_32.h \
- sdk/native/jni/include/opencv2/core/hal/interface.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstddef \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_prolog.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstddef.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stddef.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/stdint.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/_types.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/machine/_types.h \
- sdk/native/jni/include/opencv2/core/version.hpp \
- sdk/native/jni/include/opencv2/core/base.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/climits \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/algorithm \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstdio.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stdio.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/stdio.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algo.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algobase.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstring.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/using/cstring \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cmath.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/math.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/math.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_pair.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/type_traits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/type_manips.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_move_construct_fwk.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iterator_base.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ptrs_specialize.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algobase.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_function_base.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iterator.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_heap.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_heap.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algo.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tempbuf.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_construct.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_new.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/new \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/exception \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/exception \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/gabixx_config.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tempbuf.c \
- sdk/native/jni/include/opencv2/core/cvstd.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstring \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cctype \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cctype.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/ctype.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/ctype.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/string \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_alloc.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_alloc.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_fwd.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iosfwd.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/char_traits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cwchar.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/cstddef \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/wchar.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/time.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/time.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/time.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/linux/time.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm/siginfo.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm-generic/siginfo.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/_wchar_limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_base.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_npos.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_operators.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ctraits_fns.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_function.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_function_adaptors.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_range_errors.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_hash.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_hash_fun.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_io.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ostream.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ios.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ios_base.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_stdexcept_base.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_exception.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_locale.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_threads.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/pthread.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/pthread.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/signal.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/signal.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm/signal.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm-generic/signal.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm/sigcontext.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sched.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_threads.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ctime.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ctype.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/c_locale.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_numpunct.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ios.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_streambuf.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_streambuf.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ostreambuf_iterator.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ostream.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_put.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iostream_string.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_put.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cfloat \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/float.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_limits.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_istream.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_istreambuf_iterator.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_istream.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_get.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_get.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_io.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/utility \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstdlib \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cmath \
- sdk/native/jni/include/opencv2/core/ptr.inl.hpp \
- sdk/native/jni/include/opencv2/core/neon_utils.hpp \
- sdk/native/jni/include/opencv2/core/traits.hpp \
- sdk/native/jni/include/opencv2/core/matx.hpp \
- sdk/native/jni/include/opencv2/core/saturate.hpp \
- sdk/native/jni/include/opencv2/core/fast_math.hpp \
- sdk/native/jni/include/opencv2/core/types.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/vector \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_vector.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_vector.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_bvector.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_relops_cont.h \
- sdk/native/jni/include/opencv2/core/mat.hpp \
- sdk/native/jni/include/opencv2/core/bufferpool.hpp \
- sdk/native/jni/include/opencv2/core/mat.inl.hpp \
- sdk/native/jni/include/opencv2/core/persistence.hpp \
- sdk/native/jni/include/opencv2/core/operations.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstdio \
- sdk/native/jni/include/opencv2/core/cvstd.inl.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/complex \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_complex.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_complex.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_sstream.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_sstream.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/ostream \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ioserr.h \
- sdk/native/jni/include/opencv2/core/utility.hpp \
- sdk/native/jni/include/opencv2/core/core_c.h \
- sdk/native/jni/include/opencv2/core/types_c.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/assert.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/assert.h \
- sdk/native/jni/include/opencv2/core/optim.hpp \
- sdk/native/jni/include/opencv2/imgproc.hpp \
- sdk/native/jni/include/opencv2/imgproc/imgproc_c.h \
- sdk/native/jni/include/opencv2/imgproc/types_c.h \
- sdk/native/jni/include/opencv2/photo.hpp \
- sdk/native/jni/include/opencv2/photo/photo_c.h \
- sdk/native/jni/include/opencv2/video.hpp \
- sdk/native/jni/include/opencv2/video/tracking.hpp \
- sdk/native/jni/include/opencv2/video/background_segm.hpp \
- sdk/native/jni/include/opencv2/video/tracking_c.h \
- sdk/native/jni/include/opencv2/features2d.hpp \
- sdk/native/jni/include/opencv2/flann/miniflann.hpp \
- sdk/native/jni/include/opencv2/flann/defines.h \
- sdk/native/jni/include/opencv2/flann/config.h \
- sdk/native/jni/include/opencv2/objdetect.hpp \
- sdk/native/jni/include/opencv2/objdetect/detection_based_tracker.hpp \
- sdk/native/jni/include/opencv2/objdetect/objdetect_c.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/deque \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_deque.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_deque.c \
- sdk/native/jni/include/opencv2/calib3d.hpp \
- sdk/native/jni/include/opencv2/core/affine.hpp \
- sdk/native/jni/include/opencv2/calib3d/calib3d_c.h \
- sdk/native/jni/include/opencv2/imgcodecs.hpp \
- sdk/native/jni/include/opencv2/videoio.hpp \
- sdk/native/jni/include/opencv2/highgui.hpp \
- sdk/native/jni/include/opencv2/highgui/highgui_c.h \
- sdk/native/jni/include/opencv2/imgcodecs/imgcodecs_c.h \
- sdk/native/jni/include/opencv2/videoio/videoio_c.h \
- sdk/native/jni/include/opencv2/ml.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/map \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_map.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tree.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tree.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/iostream \
- sdk/native/jni/include/opencv2/core/core.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/android/bitmap.h
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/jni/com_scanlibrary_ScanActivity.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/jni.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/cdefs.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/cdefs_elf.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/android/api-level.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stdarg.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cprolog.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/features.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/user_config.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/compat.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/host.h:
+./obj/local/x86/objs/Scanner/scan.o: jni/scan.cpp \
+  jni/com_scanlibrary_ScanActivity.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/opencv.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/cvdef.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\limits.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cprolog.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_epilog.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_config_compat_post.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/hal/interface.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cstddef \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_prolog.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/debug/_debug.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cstddef.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stddef.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/version.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/base.hpp \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\climits \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\algorithm \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cstdio.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stdio.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_algo.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_algobase.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cstring.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\string.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\using/cstring \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cstdlib.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stdlib.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cmath.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\math.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_pair.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/type_traits.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/type_manips.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_move_construct_fwk.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_iterator_base.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ptrs_specialize.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_algobase.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_function_base.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_iterator.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_heap.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_heap.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_algo.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_tempbuf.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_uninitialized.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_construct.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_new.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\../../gabi++/include/new \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\exception \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\../../gabi++/include/exception \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl//gabi++/include/gabixx_config.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_tempbuf.c \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/cvstd.hpp \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cstring \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cctype \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cctype.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\ctype.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\string \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_alloc.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_alloc.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_fwd.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_iosfwd.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/char_traits.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cwchar.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\../../gabi++/include/cstddef \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_mbstate_t.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_base.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_npos.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_operators.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ctraits_fns.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_function.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_function_adaptors.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_range_errors.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_hash.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_hash_fun.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_io.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ostream.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ios.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ios_base.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_stdexcept_base.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_exception.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_locale.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_threads.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\pthread.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_threads.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ctime.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\time.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_facets_fwd.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ctype.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/c_locale.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_numpunct.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ios.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_streambuf.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_streambuf.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ostreambuf_iterator.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ostream.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_num_put.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_iostream_string.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_num_put.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_limits.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cfloat \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\float.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_limits.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_istream.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_istreambuf_iterator.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_istream.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_num_get.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_num_get.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_io.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\utility \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cstdlib \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cmath \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/ptr.inl.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/neon_utils.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/traits.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/matx.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/saturate.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/fast_math.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/types.hpp \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\vector \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_vector.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_vector.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_bvector.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_relops_cont.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/mat.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/bufferpool.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/mat.inl.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/persistence.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/operations.hpp \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cstdio \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/cvstd.inl.hpp \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\complex \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_complex.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_complex.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_sstream.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_sstream.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\ostream \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ioserr.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/utility.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/core_c.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/types_c.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\assert.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/optim.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/imgproc.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/imgproc/imgproc_c.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/imgproc/types_c.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/photo.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/photo/photo_c.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/video.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/video/tracking.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/video/background_segm.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/video/tracking_c.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/features2d.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/flann/miniflann.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/flann/defines.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/flann/config.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/objdetect.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/objdetect/detection_based_tracker.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/objdetect/objdetect_c.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\deque \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_deque.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_deque.c \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/calib3d.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/affine.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/calib3d/calib3d_c.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/imgcodecs.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/videoio.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/highgui.hpp \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/highgui/highgui_c.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/imgcodecs/imgcodecs_c.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/videoio/videoio_c.h \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/ml.hpp \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\map \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_map.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_tree.h \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_tree.c \
+  F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\iostream \
+  F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/core.hpp
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_system.h:
+jni/com_scanlibrary_ScanActivity.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_android.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/opencv.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/cvdef.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\limits.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_epilog.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cprolog.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_epilog.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/android/log.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_config_compat_post.h:
 
-sdk/native/jni/include/opencv2/opencv.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/hal/interface.h:
 
-sdk/native/jni/include/opencv2/core.hpp:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cstddef:
 
-sdk/native/jni/include/opencv2/core/cvdef.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_prolog.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/limits.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/debug/_debug.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/limits.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cstddef.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/limits.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stddef.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/linux/limits.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/version.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/machine/internal_types.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/base.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/machine/limits.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\climits:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/syslimits.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\algorithm:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm/page.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cstdio.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm/page_32.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stdio.h:
 
-sdk/native/jni/include/opencv2/core/hal/interface.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_algo.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstddef:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_algobase.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_prolog.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cstring.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\string.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstddef.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\using/cstring:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stddef.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cstdlib.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/stdint.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stdlib.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/_types.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cmath.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/machine/_types.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\math.h:
 
-sdk/native/jni/include/opencv2/core/version.hpp:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_pair.h:
 
-sdk/native/jni/include/opencv2/core/base.hpp:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/type_traits.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/climits:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/type_manips.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/algorithm:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_move_construct_fwk.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstdio.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_iterator_base.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stdio.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ptrs_specialize.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/stdio.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_algobase.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algo.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_function_base.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algobase.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_iterator.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstring.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_heap.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/using/cstring:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_heap.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_algo.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cmath.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_tempbuf.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/math.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_uninitialized.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/math.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_construct.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_pair.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_new.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/type_traits.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\../../gabi++/include/new:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/type_manips.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\exception:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_move_construct_fwk.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\../../gabi++/include/exception:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iterator_base.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl//gabi++/include/gabixx_config.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ptrs_specialize.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_tempbuf.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algobase.c:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/cvstd.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_function_base.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cstring:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iterator.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cctype:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_heap.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cctype.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_heap.c:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\ctype.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algo.c:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\string:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tempbuf.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_alloc.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_construct.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_alloc.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_new.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_fwd.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/new:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_iosfwd.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/exception:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/char_traits.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/exception:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_cwchar.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/gabixx_config.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\../../gabi++/include/cstddef:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tempbuf.c:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_mbstate_t.h:
 
-sdk/native/jni/include/opencv2/core/cvstd.hpp:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_base.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstring:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_npos.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cctype:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_operators.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cctype.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/ctype.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ctraits_fns.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/ctype.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_function.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/string:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_function_adaptors.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_range_errors.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_alloc.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_hash.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_alloc.c:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_hash_fun.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_fwd.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_io.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iosfwd.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ostream.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/char_traits.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ios.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cwchar.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ios_base.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/cstddef:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_stdexcept_base.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/wchar.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_exception.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/time.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_locale.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/time.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_threads.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/time.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\pthread.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/linux/time.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_threads.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm/siginfo.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ctime.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm-generic/siginfo.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\time.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sys/_wchar_limits.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_facets_fwd.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ctype.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_base.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/c_locale.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_npos.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_numpunct.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_operators.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ios.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string.c:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_streambuf.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ctraits_fns.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_streambuf.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_function.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ostreambuf_iterator.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_function_adaptors.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ostream.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_range_errors.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_num_put.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_hash.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_iostream_string.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_hash_fun.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_num_put.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_io.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_limits.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ostream.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cfloat:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ios.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\float.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ios_base.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_limits.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_stdexcept_base.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_istream.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_exception.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_istreambuf_iterator.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_locale.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_istream.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_threads.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_num_get.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/pthread.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_num_get.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/pthread.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_string_io.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/signal.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\utility:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/signal.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cstdlib:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm/signal.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cmath:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm-generic/signal.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/ptr.inl.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/asm/sigcontext.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/neon_utils.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/sched.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/traits.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_threads.c:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/matx.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ctime.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/saturate.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/fast_math.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ctype.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/types.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/c_locale.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\vector:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_numpunct.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_vector.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ios.c:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_vector.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_streambuf.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_bvector.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_streambuf.c:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_relops_cont.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ostreambuf_iterator.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/mat.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ostream.c:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/bufferpool.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_put.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/mat.inl.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iostream_string.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/persistence.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_put.c:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/operations.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_limits.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\cstdio:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cfloat:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/cvstd.inl.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/float.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\complex:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_limits.c:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_complex.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_istream.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_complex.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_istreambuf_iterator.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_sstream.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_istream.c:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_sstream.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_get.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\ostream:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_get.c:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_ioserr.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_io.c:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/utility.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/utility:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/core_c.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstdlib:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/types_c.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cmath:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\assert.h:
 
-sdk/native/jni/include/opencv2/core/ptr.inl.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/optim.hpp:
 
-sdk/native/jni/include/opencv2/core/neon_utils.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/imgproc.hpp:
 
-sdk/native/jni/include/opencv2/core/traits.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/imgproc/imgproc_c.h:
 
-sdk/native/jni/include/opencv2/core/matx.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/imgproc/types_c.h:
 
-sdk/native/jni/include/opencv2/core/saturate.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/photo.hpp:
 
-sdk/native/jni/include/opencv2/core/fast_math.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/photo/photo_c.h:
 
-sdk/native/jni/include/opencv2/core/types.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/video.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/vector:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/video/tracking.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_vector.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/video/background_segm.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_vector.c:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/video/tracking_c.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_bvector.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/features2d.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_relops_cont.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/flann/miniflann.hpp:
 
-sdk/native/jni/include/opencv2/core/mat.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/flann/defines.h:
 
-sdk/native/jni/include/opencv2/core/bufferpool.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/flann/config.h:
 
-sdk/native/jni/include/opencv2/core/mat.inl.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/objdetect.hpp:
 
-sdk/native/jni/include/opencv2/core/persistence.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/objdetect/detection_based_tracker.hpp:
 
-sdk/native/jni/include/opencv2/core/operations.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/objdetect/objdetect_c.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstdio:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\deque:
 
-sdk/native/jni/include/opencv2/core/cvstd.inl.hpp:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_deque.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/complex:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_deque.c:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_complex.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/calib3d.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_complex.c:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/affine.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_sstream.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/calib3d/calib3d_c.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_sstream.c:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/imgcodecs.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/ostream:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/videoio.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ioserr.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/highgui.hpp:
 
-sdk/native/jni/include/opencv2/core/utility.hpp:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/highgui/highgui_c.h:
 
-sdk/native/jni/include/opencv2/core/core_c.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/imgcodecs/imgcodecs_c.h:
 
-sdk/native/jni/include/opencv2/core/types_c.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/videoio/videoio_c.h:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/assert.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/ml.hpp:
 
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/../include/assert.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\map:
 
-sdk/native/jni/include/opencv2/core/optim.hpp:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_map.h:
 
-sdk/native/jni/include/opencv2/imgproc.hpp:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_tree.h:
 
-sdk/native/jni/include/opencv2/imgproc/imgproc_c.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\stl/_tree.c:
 
-sdk/native/jni/include/opencv2/imgproc/types_c.h:
+F:/Eremes/Android/SDK/ndk/16.1.4479499/build//../sources/cxx-stl/stlport/stlport\iostream:
 
-sdk/native/jni/include/opencv2/photo.hpp:
-
-sdk/native/jni/include/opencv2/photo/photo_c.h:
-
-sdk/native/jni/include/opencv2/video.hpp:
-
-sdk/native/jni/include/opencv2/video/tracking.hpp:
-
-sdk/native/jni/include/opencv2/video/background_segm.hpp:
-
-sdk/native/jni/include/opencv2/video/tracking_c.h:
-
-sdk/native/jni/include/opencv2/features2d.hpp:
-
-sdk/native/jni/include/opencv2/flann/miniflann.hpp:
-
-sdk/native/jni/include/opencv2/flann/defines.h:
-
-sdk/native/jni/include/opencv2/flann/config.h:
-
-sdk/native/jni/include/opencv2/objdetect.hpp:
-
-sdk/native/jni/include/opencv2/objdetect/detection_based_tracker.hpp:
-
-sdk/native/jni/include/opencv2/objdetect/objdetect_c.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/deque:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_deque.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_deque.c:
-
-sdk/native/jni/include/opencv2/calib3d.hpp:
-
-sdk/native/jni/include/opencv2/core/affine.hpp:
-
-sdk/native/jni/include/opencv2/calib3d/calib3d_c.h:
-
-sdk/native/jni/include/opencv2/imgcodecs.hpp:
-
-sdk/native/jni/include/opencv2/videoio.hpp:
-
-sdk/native/jni/include/opencv2/highgui.hpp:
-
-sdk/native/jni/include/opencv2/highgui/highgui_c.h:
-
-sdk/native/jni/include/opencv2/imgcodecs/imgcodecs_c.h:
-
-sdk/native/jni/include/opencv2/videoio/videoio_c.h:
-
-sdk/native/jni/include/opencv2/ml.hpp:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/map:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_map.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tree.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tree.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/iostream:
-
-sdk/native/jni/include/opencv2/core/core.hpp:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-x86/usr/include/android/bitmap.h:
+F:/johnn/Documents/VSCode/scanlibrary/library/src/main/jni/sdk/native/jni/include\opencv2/core/core.hpp:
